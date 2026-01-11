@@ -2,3 +2,4 @@
 Le magnifique jeu qui représente l'amour entre Gabibi et Phiphi !!!!!! &lt;3
 gabibi sent bon
 phiphi sent bon aussi
+DblJump = jump + 1
